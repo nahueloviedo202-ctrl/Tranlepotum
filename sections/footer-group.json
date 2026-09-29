@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>sotelleshop.com</p>",
+                    "text": "<p>Tranlepotum</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -769,7 +769,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: info@sotelleshop.com</p>",
+                    "text": "<p>Email: info@tranlepotumshop.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -944,7 +944,7 @@
                 "ai_gen_block_e3eb87d_GzgXh7": {
                   "type": "ai_gen_block_e3eb87d",
                   "settings": {
-                    "menu": "pol",
+                    "menu": "",
                     "desktop_width_percent": 100,
                     "alignment": "flex-start",
                     "mobile_alignment": "center",
