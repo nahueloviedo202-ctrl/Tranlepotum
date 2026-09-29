@@ -25,7 +25,7 @@
             "weight": "",
             "letter_spacing": "normal",
             "case": "none",
-            "text_color": "{{ settings.color_palette.foreground }}"
+            "text_color": "{{ settings.color_palette.background }}"
           },
           "blocks": {}
         },
@@ -40,7 +40,7 @@
             "weight": "",
             "letter_spacing": "normal",
             "case": "none",
-            "text_color": "{{ settings.color_palette.foreground }}"
+            "text_color": "{{ settings.color_palette.background }}"
           },
           "blocks": {}
         },
@@ -55,7 +55,7 @@
             "weight": "",
             "letter_spacing": "normal",
             "case": "none",
-            "text_color": "#1a1a1a"
+            "text_color": "{{ settings.color_palette.background }}"
           },
           "blocks": {}
         }
@@ -69,7 +69,7 @@
       "settings": {
         "speed": 4,
         "section_width": "full-width",
-        "background_color": "#ede6db",
+        "background_color": "#432818",
         "divider_width": 0,
         "divider_color": "",
         "padding-block-start": 20,
@@ -99,8 +99,8 @@
             "background_color": "",
             "text_color": "",
             "link_background_color": "",
-            "link_background_color_hover": "#A85C32",
-            "link_background_color_active": "#A85C32",
+            "link_background_color_hover": "#a85c32",
+            "link_background_color_active": "#a85c32",
             "link_background_radius": 10,
             "link_background_padding_block": 6,
             "type_font_primary_size": "0.875rem",
@@ -150,8 +150,8 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "background_color_top": "#2A3D2D",
-        "text_color_top": "{{ settings.color_palette.background }}",
+        "background_color_top": "{{ settings.color_palette.background }}",
+        "text_color_top": "",
         "background_color_bottom": "",
         "text_color_bottom": "",
         "bubble_style": "default",
