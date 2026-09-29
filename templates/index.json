@@ -813,6 +813,7 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "rating_icon": "star",
+        "rating_icon_image": "shopify://shop_images/star_77949.svg",
         "rating_icon_size": 18,
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
