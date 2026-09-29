@@ -43,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>Business Name:</strong> Sotelle Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:info@sotelleshop.com\" target=\"_blank\" title=\"mailto:info@sotelleshop.com\">info@sotelleshop.com</a><br/><strong>Phone:</strong> +1 762-600-1451</p>",
+            "text": "<p><strong>Business Name:</strong> Tranlepotum Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:info@sotelleshop.com\" target=\"_blank\" title=\"mailto:info@sotelleshop.com\">info@tranlepotumshop.com</a><br/><strong>Phone:</strong> +1 762-600-1451</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -136,9 +136,9 @@
               "settings": {
                 "label": "Submit",
                 "style_class": "button-custom",
-                "custom_button_background": "#2a3b2e",
+                "custom_button_background": "#432818",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#2a3b2e",
+                "custom_button_border": "#432818",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
