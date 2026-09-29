@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Tranlepotum Marketing LLC</p>",
+                    "text": "<p>TRANLEPOTUM MARKETING LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -439,7 +439,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Tranlepotum Marketing LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>TRANLEPOTUM MARKETING LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -539,7 +539,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>117 South Lexington Street Ste 100, Harrisonville, MO 64701, United States</p>",
+                    "text": "<p>1209 MOUNTAIN ROAD PL NE, STE R<br/>ALBUQUERQUE, NM 87110</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -639,7 +639,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Remote-first company. Tranlepotum Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
+                    "text": "<p>Remote-first company. TRANLEPOTUM MARKETING LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -978,7 +978,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>© 2026 Tranlepotum Marketing LLC | EIN : 42-5311602 | All rights reserved.</p>",
+                    "text": "<p>© 2026 TRANLEPOTUM MARKETING LLC| EIN : 42-5311602 | All rights reserved.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
