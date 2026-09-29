@@ -220,7 +220,6 @@
         "image_zwQBFL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_2v77js2v77js2v77.webp",
             "link": "",
             "image_ratio": "landscape",
             "width": "fill",
@@ -283,7 +282,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Effortless Style, Made One Step at a Time</p>",
+                "text": "<p>From Blueprint to Workshop: Build with Confidence</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -309,7 +308,7 @@
             "text_rnp6Cj": {
               "type": "text",
               "settings": {
-                "text": "<p>Finding the perfect pair doesn't have to be complicated. Sotelle brings you a curated collection of shoes and everyday essentials designed with quality materials and a timeless fit. Whether you're building a versatile shoe rotation or looking for your next statement pair, our collection makes it easy to feel confident in every step.</p>",
+                "text": "<p>Say goodbye to guesswork and wasted wood. Every Tranlepotun ebook breaks down proven joinery, durable construction techniques, and visual assembly diagrams tailored for standard, accessible tools. Learn at your own pace and turn everyday lumber into handcrafted pieces built to last.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -335,7 +334,7 @@
             "button_7UhQVy": {
               "type": "button",
               "settings": {
-                "label": "SEE MORE",
+                "label": "EXPLORE GUIDES",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
@@ -407,7 +406,7 @@
         "comparison_table_row_irUFtT": {
           "type": "comparison-table-row",
           "settings": {
-            "row_label": "24/7 Customer Support",
+            "row_label": "Instant Digital Download & Print-Ready PDFs",
             "your_brand_status": "check",
             "others_status": "cross"
           },
@@ -431,12 +430,12 @@
       "custom_css": [],
       "name": "Comparison table",
       "settings": {
-        "heading": "Why Choose Sotelle",
+        "heading": "Why Choose Tranlepotun",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Discover what sets Sotelle apart from the competition. We're committed to delivering exceptional quality, outstanding customer service, and unbeatable value on every purchase.</p>",
+        "subheading": "<p>Discover what sets our woodworking guides apart. We cut out vague sketches, incomplete dimensions, and guesswork, giving you builder-tested plans that guarantee precision and zero wasted material.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "header_font_size_desktop": 16,
@@ -445,7 +444,7 @@
         "cell_font_size_mobile": 14,
         "section_width": "page-width",
         "border_radius": 32,
-        "brand_column_heading": "Sotelle",
+        "brand_column_heading": "Tranlepotun",
         "highlighted_column_background_color": "#2a3b2e",
         "highlighted_column_text_color": "#ffffff",
         "others_column_heading": "Others",
@@ -468,7 +467,7 @@
         "text_nwt8TW": {
           "type": "text",
           "settings": {
-            "text": "<p>Why Choose Sotelle?</p>",
+            "text": "<p>Why Choose Tranlepotun?</p>",
             "width": "100%",
             "max_width": "narrow",
             "alignment": "center",
@@ -495,7 +494,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Sotelle is made for people who want to step out with confidence, without complicated trends or hours spent searching for the right pair.</p><p>Each pair is designed to be simple, elegant and versatile, helping you build a shoe collection that feels effortless and put-together.</p>",
+            "text": "<p>Tranlepotun is created for woodworkers and DIY creators who want to build with precision and confidence, without deciphering confusing blueprints or wasting expensive lumber.</p><p>Every digital guide is designed to be clear, practical, and beginner-friendly, helping you master timeless woodworking techniques and craft furniture that lasts for generations.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "center",
@@ -522,7 +521,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>✓ Timeless and elegant pairs<br/>✓ Designed for everyday life<br/>✓ Quality materials you can feel confident in<br/>✓ Perfect for every foot and every occasion<br/>✓ Versatile styles for every season<br/>✓ Free shipping on every order<br/>✓ Easy 30-day returns<br/>✓ Comfortable, well-made and made to last</p>",
+            "text": "<p>✓ Tested plans with exact cut lists</p><p>✓ Designed for home workshops & basic tools</p><p>✓ Clear, step-by-step 3D assembly guides</p><p>✓ Printable PDFs and mobile-friendly formats</p><p>✓ Complete hardware & lumber shopping lists</p><p>✓ Instant digital download after purchase</p><p>✓ Lifetime access and free plan updates</p><p>✓ Solid, durable designs built to last</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -628,7 +627,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Step Out with Confidence, No Matter Your Style</p>",
+                "text": "<p>Build with Confidence, No Matter Your Skill Level</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -655,7 +654,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Discover our curated collection of shoes and everyday essentials made with quality materials and thoughtful design.</p>",
+                "text": "<p>Discover our complete collection of digital woodworking guides and build plans, crafted with precise measurements, clear diagrams, and thoughtful design.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -711,7 +710,6 @@
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/Gemini_Generated_Image_mwaxcwmwaxcwmwax.webp",
         "media_type_2": "image",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
@@ -749,11 +747,11 @@
           "settings": {
             "show_rating": true,
             "rating": 5,
-            "heading": "Amazing Quality!",
+            "heading": "Incredibly Detailed & Clear!",
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>The leather felt amazing and the fit was perfect. I ordered the ankle boots and they exceeded my expectations.</p>",
+            "text": "<p>The cut list was spot-on and saved me from ruining expensive hardwood. As a complete beginner, the 3D diagrams made assembly straightforward and stress-free. My workbench turned out rock solid.</p>",
             "author": "Elliot M."
           },
           "blocks": {}
@@ -763,11 +761,11 @@
           "settings": {
             "show_rating": true,
             "rating": 5,
-            "heading": "Perfect for Everyday Wear",
+            "heading": "Perfect for Small Garages",
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>Perfect for building a versatile shoe collection. Great quality and true to size. I never thought finding the right pair could be this easy.</p>",
+            "text": "<p>I loved that I didn't need thousands of dollars in shop machinery to finish this project. The guide breaks down every joint using basic, standard tools. Truly the best woodworking plans I’ve bought online.</p>",
             "author": "James R."
           },
           "blocks": {}
@@ -777,11 +775,11 @@
           "settings": {
             "show_rating": true,
             "rating": 5,
-            "heading": "Love the Fast Shipping",
+            "heading": "Instant Download, Zero Fluff",
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>I loved how fast my order arrived. The packaging was beautiful and the return process was so simple. Highly recommend to anyone who wants elevated everyday shoes.</p>",
+            "text": "<p>The download arrived in my inbox seconds after checkout. Having the PDF right on my tablet on the workbench made the build go twice as fast. Highly recommend Tranlepotun to any DIY creator.</p>",
             "author": "Emily T."
           },
           "blocks": {}
@@ -794,7 +792,7 @@
       ],
       "name": "Testimonials",
       "settings": {
-        "heading": "What Our Customers Are Saying",
+        "heading": "What Our Builders Are Saying",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
@@ -813,7 +811,6 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "rating_icon": "star",
-        "rating_icon_image": "shopify://shop_images/star_77949.svg",
         "rating_icon_size": 18,
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
