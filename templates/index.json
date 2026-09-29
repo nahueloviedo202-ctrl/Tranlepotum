@@ -681,7 +681,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Shop the Collection",
+                "label": "Explore All Plans",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
@@ -839,7 +839,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Discover Our Premium Collection</h2>",
+            "text": "<p>Built for Precision & Durability</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -946,7 +946,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>Quality Materials</h4>",
+                    "text": "<h4>Workshop-Tested Plans</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -973,7 +973,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Handpicked pairs crafted with attention to detail. Each shoe in our collection is selected to meet our high standards for comfort and durability.</p>",
+                    "text": "<p>Every guide is engineered with precision and built in real workshops. We include comprehensive cut lists, accurate dimensions, and proven joinery techniques to ensure every piece is sturdy and built to last.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1046,7 +1046,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>Fast Shipping</h4>",
+                    "text": "<h4>Instant Digital Access</h4><h4></h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1073,7 +1073,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Get your order delivered quickly. We ensure every pair is carefully packaged and on its way to you as soon as possible.</p>",
+                    "text": "<p>Get your plans delivered immediately. As soon as you checkout, your high-resolution PDFs and cut sheets are sent straight to your inbox, ready to view on your tablet or print directly for your workbench.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1146,7 +1146,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>Customer Support</h4>",
+                    "text": "<h4>Builder Support</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1173,7 +1173,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>We're here to help! Our dedicated support team is ready to answer your questions and ensure you have the best shopping experience possible.</p>",
+                    "text": "<p>We're here to help you build! Have a question about material alternatives, hardware specs, or a specific cut? Our team is always ready to guide you through your build and ensure your project succeeds.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1904,7 +1904,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 93,
-            "text": "<p>Our customers love how these pairs elevate their everyday style from the first wear, with quality materials and a comfortable fit.</p>"
+            "text": "<p>Builders report cutting down assembly time significantly on their first project, thanks to clear 3D diagrams and pre-calculated lumber lists.</p>"
           },
           "blocks": {}
         },
@@ -1912,7 +1912,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 96,
-            "text": "<p>More than 240 loyal customers have already discovered Sotelle and never looked back. Each pair is a unique addition to their collection.</p>"
+            "text": "<p>Over 240 makers and DIY enthusiasts have built Tranlepotun projects and expanded their workshops with durable, handmade furniture.</p>"
           },
           "blocks": {}
         },
@@ -1920,7 +1920,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 100,
-            "text": "<p>Simple, elegant, and comfortable. These pairs are exactly what your shoe rotation has been waiting for to feel effortlessly put-together.</p>"
+            "text": "<p>Accurate, beginner-friendly, and waste-free. Our plans provide the exact millimeter specs your workbench has been waiting for, ensuring flawless results every time.</p>"
           },
           "blocks": {}
         }
@@ -1932,12 +1932,12 @@
       ],
       "name": "Results",
       "settings": {
-        "heading": "Discover Our Best Pairs",
+        "heading": "Discover Our Best Build Plans",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Explore our collection of elegant and versatile shoes. From timeless staples to seasonal favorites, find the inspiration you need to step out with confidence, with quality materials and thoughtful design.</p>",
+        "subheading": "<p>Explore our collection of practical, builder-tested woodworking guides. From essential workshop benches to custom home furniture, find the exact blueprints and inspiration you need to build with confidence, precise cut lists, and solid joinery.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "stat_text_font_size_desktop": 15,
@@ -2007,10 +2007,51 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "accordion_row_aLDRjA": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "What formats are included in the download?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_AnViXi": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>All plans come in high-resolution, printable PDF format. They feature detailed 3D step-by-step assembly diagrams, optimized lumber cut lists, and millimeter dimensions that work seamlessly on screen or printed on paper.</p><p></p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "center",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_AnViXi"
+              ]
+            },
             "accordion_row_jGX4eg": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "How long does shipping take?",
+                "heading": "How do I receive my build plans after purchasing?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2019,7 +2060,7 @@
                 "text_yAdWfG": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Orders typically ship within 2-3 business days and arrive within 5-10 business days, depending on your location.</p>",
+                    "text": "<p>Instantly. Once your payment is complete, you will be redirected to an instant download page, and an email will be sent with your secure download links. You can save the PDF files directly to your phone, tablet, or computer right away.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
@@ -2050,7 +2091,7 @@
             "accordion_row_bHEdG6": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "What is your return policy?",
+                "heading": "What is your return and refund policy?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2059,7 +2100,7 @@
                 "text_yF9zXw": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>We offer free returns within 30 days of delivery. Items must be unworn and in their original packaging.</p>",
+                    "text": "<p>Because our products are digital downloads that cannot be returned once delivered, all sales are generally final. However, your build success is our priority. If you encounter any technical issues with your download file or have questions about a plan, contact our builder support and we will gladly help or resolve it.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
@@ -2091,7 +2132,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "How do I know what size to order?",
+                "heading": "Are these plans suitable for beginners with basic tools?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2101,7 +2142,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Each product page includes a detailed size chart. If you're between sizes, we recommend sizing up for a more comfortable fit.<br/></p>",
+                    "text": "<p>Yes, absolutely. Every guide clearly lists the exact tools, lumber sizes, and hardware needed before you make your first cut. We focus on designs that can be built using standard workshop tools (circular saw, drill, pocket hole jig, and sander) without requiring industrial machinery.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
@@ -2217,6 +2258,7 @@
             }
           },
           "block_order": [
+            "accordion_row_aLDRjA",
             "accordion_row_jGX4eg",
             "accordion_row_bHEdG6",
             "accordion_row_bWLCLY",
