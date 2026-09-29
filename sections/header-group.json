@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Easy Returns — Shop With Confidence, Every Time",
+            "text": "<strong>Easy Returns — Shop With Confidence, Every Time</strong>",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -32,7 +32,7 @@
         "announcement_q3NaNh": {
           "type": "_announcement",
           "settings": {
-            "text": "Free Shipping — On Every Pair, No Minimum",
+            "text": "<strong>Zero Guesswork — Tested Woodworking Plans, Ready in Seconds</strong>&nbsp;",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -47,7 +47,7 @@
         "announcement_YChUPc": {
           "type": "_announcement",
           "settings": {
-            "text": "Fast Delivery — Your Next Pair, Right to Your Door",
+            "text": "<strong>Instant Access — Your Next Build, Straight to Your Workbench</strong>&nbsp;",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
