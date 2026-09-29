@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Tranlepotum</p>",
+                    "text": "<p>Tranlepotum Marketing LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -170,6 +170,7 @@
             "group_fBpEza": {
               "type": "group",
               "name": "t:names.group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -270,7 +271,6 @@
             "group_Upg7Xb": {
               "type": "group",
               "name": "t:names.group",
-              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -339,7 +339,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>42-4563680</p>",
+                    "text": "<p>42-5311602</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -371,7 +371,6 @@
             "group_JJeCgc": {
               "type": "group",
               "name": "t:names.group",
-              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -440,7 +439,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Sotelle Marketing LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>Tranlepotum Marketing LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -612,7 +611,6 @@
                 "text_BXqeA8": {
                   "type": "text",
                   "name": "t:names.text",
-                  "disabled": true,
                   "settings": {
                     "text": "<p>Operations</p>",
                     "width": "fit-content",
@@ -640,9 +638,8 @@
                 "text_7nMQNW": {
                   "type": "text",
                   "name": "t:names.text",
-                  "disabled": true,
                   "settings": {
-                    "text": "<p>Remote-first company. Sotelle Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
+                    "text": "<p>Remote-first company. Tranlepotum Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -769,7 +766,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: info@tranlepotumshop.com</p>",
+                    "text": "<p>Email: info@tranlepotum.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -981,7 +978,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>© 2026 ECOMHAWKINS LLC | | All rights reserved.</p>",
+                    "text": "<p>© 2026 Tranlepotum Marketing LLC | EIN : 42-5311602 | All rights reserved.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
